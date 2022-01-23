@@ -1,9 +1,9 @@
 # FUM-MIPS
-FUM-MIPS is a combined assembly language editor, assembler, simulator, and debugger for the MIPS processor.
-This java program simulates a 32-bit MIPS processor. The processor has 32 registers. 
-The ISA of the simulator is a small subset of the MIPS ISA. The ISA contains the following commands:
+FUM-MIPS is a combined assembly language editor, assembler, simulator, and debugger for the MIPS processor.<br>
+This java program simulates a 32-bit MIPS processor. The processor has 32 registers.<br>
+The ISA of the simulator is a small subset of the MIPS ISA. The ISA contains the following commands:<br>
 
-The code is written in java 9 SE using <a href="https://netbeans.apache.org/">NetBeans IDE</a>
+The code is written in java 9 SE using <a href="https://netbeans.apache.org/">NetBeans IDE</a> <br>
 
 <table>
 <thead>
