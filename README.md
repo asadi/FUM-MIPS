@@ -38,3 +38,5 @@ The ISA of the simulator is a small subset of the MIPS ISA. The ISA contains the
 </tbody>
 </table>
 
+![image](https://user-images.githubusercontent.com/6803793/150692260-3a47d33b-3f42-4c82-81c8-963b625e65dd.png)
+
