@@ -40,5 +40,5 @@ The code is written in java 9 SE using <a href="https://netbeans.apache.org/">Ne
 </tbody>
 </table>
 
-![image](https://user-images.githubusercontent.com/6803793/150692260-3a47d33b-3f42-4c82-81c8-963b625e65dd.png)
+![image](https://user-images.githubusercontent.com/6803793/150692823-e4d13f05-fef3-4af0-99a5-0605622c6c27.png)
 
