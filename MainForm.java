@@ -1,8 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ *
+ * @author Ebrahim Asadi (ceo@hdfsoft.com)
+ * 
  */
+
 package ebrahim.asadi.fum.mips;
 
 import java.io.BufferedWriter;
@@ -21,12 +22,6 @@ import javafx.stage.FileChooser;
 import javax.swing.JFileChooser;
 import javax.swing.plaf.FileChooserUI;
 import javax.swing.table.DefaultTableModel;
-
-/**
- *
- * @author Ebrahim Asadi (asadi.email@gmail.com)
- * 
- */
 
 public class MainForm extends javax.swing.JFrame 
 {
